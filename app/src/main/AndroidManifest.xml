@@ -18,12 +18,11 @@
         <activity
             android:name=".DisplayMessageActivity"
             android:label="@string/title_activity_display_message"
-            android:parentActivityName="jp.co.test.myfirstapp.MainActivity">
+            android:parentActivityName=".MainActivity">
             <meta-data
                 android:name="android.support.PARENT_ACTIVITY"
                 android:value="jp.co.test.myfirstapp.MainActivity"/>
         </activity>
-
     </application>
 
 </manifest>
