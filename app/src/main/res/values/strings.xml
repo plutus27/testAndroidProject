@@ -12,5 +12,12 @@
     <string name="prompt_email">Email</string>
     <string name="prompt_password">Password</string>
     <string name="action_sign_in">ログイン</string>
+    <string name="action_company_info">会社情報</string>
+    <string name="action_company_map">地図</string>
+    <string name="action_company_service">サービス</string>
+
+    <string name="title_activity_main">MainActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
 
 </resources>
